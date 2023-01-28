@@ -1,2 +1,2 @@
 # webapp
-Bank Application using Servlet,Jsp,Postgres,HTML,CSS 
+Bank Application using Java,Servlet,Jsp,Postgres,HTML,CSS 
